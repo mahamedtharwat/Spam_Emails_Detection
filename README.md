@@ -35,5 +35,5 @@ This Project demonstrates the process of building a spam email detection system.
    * Recall: Evaluates the model’s ability to find all relevant instances.
    * F1 Score: Harmonic mean of precision and recall.
    * Confusion Matrix: 
-	* Visualized to understand true positives, true negatives, false positives, and false negatives. 
+	  * Visualized to understand true positives, true negatives, false positives, and false negatives. 
 
