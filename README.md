@@ -26,6 +26,6 @@ This Project demonstrates the process of building a spam email detection system.
 ## 5. Model Training
  - Algorithm: Random Forest Classifier (RFR).
    *	Data Split: 
-	    * 80% for training, 20% for testing.
+	 *  80% for training, 20% for testing.
    *	Hyperparameters: Default settings were used unless specified otherwise. 
 
