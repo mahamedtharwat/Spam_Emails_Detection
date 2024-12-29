@@ -1,2 +1,3 @@
 # Spam Emails Detection 📈 :
-## ![1_CS-OYdiRLCBMBiOpEURy0g](https://github.com/user-attachments/assets/2066505f-67aa-4e7a-a701-67375513cbd6)
+## ![1_CS-OYdiRLCBMBiOpEURy0g](https://github.com/user-attachments/assets/97a90a8c-1a34-4503-af80-2b4352367f60)
+
