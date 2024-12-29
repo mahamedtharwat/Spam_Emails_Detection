@@ -22,4 +22,10 @@ This Project demonstrates the process of building a spam email detection system.
 ## 4. Feature Engineering :
  - Vectorization:
    * Used CountVectorizer to convert text data into a bag-of-words representation.
-   * Generated a sparse matrix of word counts for use in machine learning models. 
+   * Generated a sparse matrix of word counts for use in machine learning models.
+## 5. Model Training
+ - Algorithm: Random Forest Classifier (RFR).
+   *	Data Split: 
+	    * 80% for training, 20% for testing.
+   *	Hyperparameters: Default settings were used unless specified otherwise. 
+
