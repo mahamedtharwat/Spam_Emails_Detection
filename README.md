@@ -28,4 +28,12 @@ This Project demonstrates the process of building a spam email detection system.
    *	Data Split: 
 	    *  80% for training, 20% for testing.
    *	Hyperparameters: Default settings were used unless specified otherwise. 
+## 6. 6. Evaluation
+- Metrics:
+   * Accuracy Score: Assesses overall correctness.
+   * Precision: Measures the ratio of true positives to all predicted positives.
+   * Recall: Evaluates the model’s ability to find all relevant instances.
+   * F1 Score: Harmonic mean of precision and recall.
+   * Confusion Matrix: 
+	* Visualized to understand true positives, true negatives, false positives, and false negatives. 
 
