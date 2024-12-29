@@ -11,9 +11,9 @@
    *  label_num: Numeric representation of the labels (1 for spam, 0 for ham).
  *  Size: 5,171 records with 4 columns.
  * 	Data Preparation:
-   * 	Removed newline characters within the email content.
-   * 	Verified that there are no missing values.
-   * 	Checked for and handled duplicate entries.
+    * 	Removed newline characters within the email content.
+    * 	Verified that there are no missing values.
+    * 	Checked for and handled duplicate entries.
 ## 3. Data Preprocessing :
  - Text Normalization:
    * Converted text to lowercase.
