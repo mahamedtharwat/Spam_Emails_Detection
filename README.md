@@ -28,7 +28,7 @@ This Project demonstrates the process of building a spam email detection system.
    *	Data Split: 
 	    *  80% for training, 20% for testing.
    *	Hyperparameters: Default settings were used unless specified otherwise. 
-## 6. 6. Evaluation
+## 6. Evaluation
 - Metrics:
    * Accuracy Score: Assesses overall correctness.
    * Precision: Measures the ratio of true positives to all predicted positives.
