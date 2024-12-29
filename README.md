@@ -10,5 +10,17 @@
    *  label: Categorical labels (spam or ham).
    *  label_num: Numeric representation of the labels (1 for spam, 0 for ham).
  *  Size: 5,171 records with 4 columns.
- 
-
+ * 	Data Preparation:
+   * 	Removed newline characters within the email content.
+   * 	Verified that there are no missing values.
+   * 	Checked for and handled duplicate entries.
+## 3. Data Preprocessing :
+ - Text Normalization:
+   * Converted text to lowercase.
+   * Removed punctuation and special characters.
+   * Tokenized text and removed stopwords using NLTK.
+   * Applied stemming using PorterStemmer to reduce words to their root forms. 
+## 4. Feature Engineering :
+ - Vectorization:
+   * Used CountVectorizer to convert text data into a bag-of-words representation.
+   * Generated a sparse matrix of word counts for use in machine learning models. 
